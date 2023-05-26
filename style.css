@@ -160,7 +160,7 @@ li {
     color: #597DB3;
 }
 
-@media (max-width: 767px){
+@media (max-width: 768px){
     html {
         font-size: 15px;
         line-height: 24px;
@@ -214,7 +214,7 @@ li {
 
     
 }
-@media (max-width: 319px){
+@media (max-width: 320px){
    
     main {
         margin: 80px 16px 80px 16px;
