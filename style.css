@@ -10,6 +10,7 @@ html {
     font-weight: 400;
     font-size: 17px;
     line-height: 28px;
+    color:#333333;
 }
   
 main {
@@ -94,6 +95,7 @@ h3 {
     color: #333333;
 }
 .title_width {
+    color: #111111;
     width: 695px;
 }
 h3 a {
@@ -102,6 +104,7 @@ h3 a {
     border-bottom: 1px solid rgba(51, 111, 238, 0.2);
 }
 .indent {
+    color: #111111;
     margin-top: 76px;
 }
 p {
@@ -187,6 +190,7 @@ li {
         display: none;
     }
     .hidden {
+        color:#333333;
         display: block;
     }
     h2 {
@@ -205,6 +209,7 @@ li {
         width: 512px;
     }
     .indent {
+        color:#333333;
         margin-top: 25px;
     }
 
